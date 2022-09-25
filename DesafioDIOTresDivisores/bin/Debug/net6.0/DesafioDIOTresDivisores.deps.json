@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DesafioDIOTresDivisores/1.0.0": {
+        "runtime": {
+          "DesafioDIOTresDivisores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioDIOTresDivisores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

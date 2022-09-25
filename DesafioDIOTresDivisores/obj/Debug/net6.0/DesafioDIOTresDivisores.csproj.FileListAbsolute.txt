@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\bin\Debug\net6.0\DesafioDIOTresDivisores.exe
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\bin\Debug\net6.0\DesafioDIOTresDivisores.deps.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\bin\Debug\net6.0\DesafioDIOTresDivisores.runtimeconfig.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\bin\Debug\net6.0\DesafioDIOTresDivisores.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\bin\Debug\net6.0\DesafioDIOTresDivisores.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\obj\Debug\net6.0\DesafioDIOTresDivisores.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\obj\Debug\net6.0\DesafioDIOTresDivisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\obj\Debug\net6.0\DesafioDIOTresDivisores.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\obj\Debug\net6.0\DesafioDIOTresDivisores.AssemblyInfo.cs
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\obj\Debug\net6.0\DesafioDIOTresDivisores.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\obj\Debug\net6.0\DesafioDIOTresDivisores.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\obj\Debug\net6.0\refint\DesafioDIOTresDivisores.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\obj\Debug\net6.0\DesafioDIOTresDivisores.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\obj\Debug\net6.0\DesafioDIOTresDivisores.genruntimeconfig.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\Desafios.Bootcamps.DIO\DesafioDIOTresDivisores\obj\Debug\net6.0\ref\DesafioDIOTresDivisores.dll
