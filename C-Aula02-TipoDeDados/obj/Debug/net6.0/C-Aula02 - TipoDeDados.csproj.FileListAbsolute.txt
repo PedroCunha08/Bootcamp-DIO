@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\obj\Debug\net6.0\C-Aula02 - TipoDeDados.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\obj\Debug\net6.0\C-Aula02 - TipoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\obj\Debug\net6.0\C-Aula02 - TipoDeDados.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\obj\Debug\net6.0\C-Aula02 - TipoDeDados.AssemblyInfo.cs
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\obj\Debug\net6.0\C-Aula02 - TipoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\bin\Debug\net6.0\C-Aula02 - TipoDeDados.exe
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\bin\Debug\net6.0\C-Aula02 - TipoDeDados.deps.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\bin\Debug\net6.0\C-Aula02 - TipoDeDados.runtimeconfig.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\bin\Debug\net6.0\C-Aula02 - TipoDeDados.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\bin\Debug\net6.0\C-Aula02 - TipoDeDados.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\obj\Debug\net6.0\C-Aula02 - TipoDeDados.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\obj\Debug\net6.0\refint\C-Aula02 - TipoDeDados.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\obj\Debug\net6.0\C-Aula02 - TipoDeDados.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\obj\Debug\net6.0\C-Aula02 - TipoDeDados.genruntimeconfig.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula02 - TipoDeDados\obj\Debug\net6.0\ref\C-Aula02 - TipoDeDados.dll

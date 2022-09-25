@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\bin\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.exe
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\bin\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.deps.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\bin\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.runtimeconfig.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\bin\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\bin\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\obj\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\obj\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\obj\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\obj\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.AssemblyInfo.cs
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\obj\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\obj\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\obj\Debug\net6.0\refint\C-Aula08-ConstruindoMenuInterativo.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\obj\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\obj\Debug\net6.0\C-Aula08-ConstruindoMenuInterativo.genruntimeconfig.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula08-ConstruindoMenuInterativo\obj\Debug\net6.0\ref\C-Aula08-ConstruindoMenuInterativo.dll

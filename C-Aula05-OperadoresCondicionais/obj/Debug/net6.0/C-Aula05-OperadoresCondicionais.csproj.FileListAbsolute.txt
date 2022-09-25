@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\obj\Debug\net6.0\C-Aula05-OperadoresCondicionais.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\obj\Debug\net6.0\C-Aula05-OperadoresCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\obj\Debug\net6.0\C-Aula05-OperadoresCondicionais.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\obj\Debug\net6.0\C-Aula05-OperadoresCondicionais.AssemblyInfo.cs
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\obj\Debug\net6.0\C-Aula05-OperadoresCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\bin\Debug\net6.0\C-Aula05-OperadoresCondicionais.exe
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\bin\Debug\net6.0\C-Aula05-OperadoresCondicionais.deps.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\bin\Debug\net6.0\C-Aula05-OperadoresCondicionais.runtimeconfig.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\bin\Debug\net6.0\C-Aula05-OperadoresCondicionais.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\bin\Debug\net6.0\C-Aula05-OperadoresCondicionais.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\obj\Debug\net6.0\C-Aula05-OperadoresCondicionais.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\obj\Debug\net6.0\refint\C-Aula05-OperadoresCondicionais.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\obj\Debug\net6.0\C-Aula05-OperadoresCondicionais.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\obj\Debug\net6.0\C-Aula05-OperadoresCondicionais.genruntimeconfig.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula05-OperadoresCondicionais\obj\Debug\net6.0\ref\C-Aula05-OperadoresCondicionais.dll

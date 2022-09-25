@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\bin\Debug\net6.0\C-Aula01-Fundamentos.exe
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\bin\Debug\net6.0\C-Aula01-Fundamentos.deps.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\bin\Debug\net6.0\C-Aula01-Fundamentos.runtimeconfig.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\bin\Debug\net6.0\C-Aula01-Fundamentos.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\bin\Debug\net6.0\C-Aula01-Fundamentos.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\obj\Debug\net6.0\C-Aula01-Fundamentos.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\obj\Debug\net6.0\C-Aula01-Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\obj\Debug\net6.0\C-Aula01-Fundamentos.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\obj\Debug\net6.0\C-Aula01-Fundamentos.AssemblyInfo.cs
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\obj\Debug\net6.0\C-Aula01-Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\obj\Debug\net6.0\C-Aula01-Fundamentos.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\obj\Debug\net6.0\refint\C-Aula01-Fundamentos.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\obj\Debug\net6.0\C-Aula01-Fundamentos.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\obj\Debug\net6.0\C-Aula01-Fundamentos.genruntimeconfig.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula01-Fundamentos\obj\Debug\net6.0\ref\C-Aula01-Fundamentos.dll

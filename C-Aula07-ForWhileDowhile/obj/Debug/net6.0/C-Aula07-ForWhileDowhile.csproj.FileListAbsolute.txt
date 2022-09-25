@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\obj\Debug\net6.0\C-Aula07-ForWhileDowhile.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\obj\Debug\net6.0\C-Aula07-ForWhileDowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\obj\Debug\net6.0\C-Aula07-ForWhileDowhile.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\obj\Debug\net6.0\C-Aula07-ForWhileDowhile.AssemblyInfo.cs
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\obj\Debug\net6.0\C-Aula07-ForWhileDowhile.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\bin\Debug\net6.0\C-Aula07-ForWhileDowhile.exe
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\bin\Debug\net6.0\C-Aula07-ForWhileDowhile.deps.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\bin\Debug\net6.0\C-Aula07-ForWhileDowhile.runtimeconfig.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\bin\Debug\net6.0\C-Aula07-ForWhileDowhile.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\bin\Debug\net6.0\C-Aula07-ForWhileDowhile.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\obj\Debug\net6.0\C-Aula07-ForWhileDowhile.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\obj\Debug\net6.0\refint\C-Aula07-ForWhileDowhile.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\obj\Debug\net6.0\C-Aula07-ForWhileDowhile.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\obj\Debug\net6.0\C-Aula07-ForWhileDowhile.genruntimeconfig.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula07-ForWhileDowhile\obj\Debug\net6.0\ref\C-Aula07-ForWhileDowhile.dll

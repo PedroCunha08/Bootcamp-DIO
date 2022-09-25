@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\bin\Debug\net6.0\C-Aula06-OperadoresAritimeticos.exe
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\bin\Debug\net6.0\C-Aula06-OperadoresAritimeticos.deps.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\bin\Debug\net6.0\C-Aula06-OperadoresAritimeticos.runtimeconfig.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\bin\Debug\net6.0\C-Aula06-OperadoresAritimeticos.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\bin\Debug\net6.0\C-Aula06-OperadoresAritimeticos.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\obj\Debug\net6.0\C-Aula06-OperadoresAritimeticos.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\obj\Debug\net6.0\C-Aula06-OperadoresAritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\obj\Debug\net6.0\C-Aula06-OperadoresAritimeticos.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\obj\Debug\net6.0\C-Aula06-OperadoresAritimeticos.AssemblyInfo.cs
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\obj\Debug\net6.0\C-Aula06-OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\obj\Debug\net6.0\C-Aula06-OperadoresAritimeticos.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\obj\Debug\net6.0\refint\C-Aula06-OperadoresAritimeticos.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\obj\Debug\net6.0\C-Aula06-OperadoresAritimeticos.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\obj\Debug\net6.0\C-Aula06-OperadoresAritimeticos.genruntimeconfig.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula06-OperadoresAritimeticos\obj\Debug\net6.0\ref\C-Aula06-OperadoresAritimeticos.dll

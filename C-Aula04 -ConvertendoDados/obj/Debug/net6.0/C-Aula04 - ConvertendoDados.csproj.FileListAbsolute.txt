@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\bin\Debug\net6.0\C-Aula04 - ConvertendoDados.exe
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\bin\Debug\net6.0\C-Aula04 - ConvertendoDados.deps.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\bin\Debug\net6.0\C-Aula04 - ConvertendoDados.runtimeconfig.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\bin\Debug\net6.0\C-Aula04 - ConvertendoDados.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\bin\Debug\net6.0\C-Aula04 - ConvertendoDados.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\obj\Debug\net6.0\C-Aula04 - ConvertendoDados.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\obj\Debug\net6.0\C-Aula04 - ConvertendoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\obj\Debug\net6.0\C-Aula04 - ConvertendoDados.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\obj\Debug\net6.0\C-Aula04 - ConvertendoDados.AssemblyInfo.cs
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\obj\Debug\net6.0\C-Aula04 - ConvertendoDados.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\obj\Debug\net6.0\C-Aula04 - ConvertendoDados.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\obj\Debug\net6.0\refint\C-Aula04 - ConvertendoDados.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\obj\Debug\net6.0\C-Aula04 - ConvertendoDados.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\obj\Debug\net6.0\C-Aula04 - ConvertendoDados.genruntimeconfig.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula04 - ConvertendoDados\obj\Debug\net6.0\ref\C-Aula04 - ConvertendoDados.dll

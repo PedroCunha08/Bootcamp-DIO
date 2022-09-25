@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C-Aula03 - Operadores/1.0.0": {
+        "runtime": {
+          "C-Aula03 - Operadores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C-Aula03 - Operadores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

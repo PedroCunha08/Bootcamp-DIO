@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\bin\Debug\net6.0\C-Aula03 - Operadores.exe
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\bin\Debug\net6.0\C-Aula03 - Operadores.deps.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\bin\Debug\net6.0\C-Aula03 - Operadores.runtimeconfig.json
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\bin\Debug\net6.0\C-Aula03 - Operadores.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\bin\Debug\net6.0\C-Aula03 - Operadores.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\obj\Debug\net6.0\C-Aula03 - Operadores.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\obj\Debug\net6.0\C-Aula03 - Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\obj\Debug\net6.0\C-Aula03 - Operadores.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\obj\Debug\net6.0\C-Aula03 - Operadores.AssemblyInfo.cs
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\obj\Debug\net6.0\C-Aula03 - Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\obj\Debug\net6.0\C-Aula03 - Operadores.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\obj\Debug\net6.0\refint\C-Aula03 - Operadores.dll
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\obj\Debug\net6.0\C-Aula03 - Operadores.pdb
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\obj\Debug\net6.0\C-Aula03 - Operadores.genruntimeconfig.cache
+C:\Users\Pedro\Documents\ESTUDOS\Bootcamp-DIO\DOT NET\C-Aula03 - Operadores\obj\Debug\net6.0\ref\C-Aula03 - Operadores.dll

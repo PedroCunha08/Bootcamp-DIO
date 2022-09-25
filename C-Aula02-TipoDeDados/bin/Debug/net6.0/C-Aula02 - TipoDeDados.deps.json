@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C-Aula02 - TipoDeDados/1.0.0": {
+        "runtime": {
+          "C-Aula02 - TipoDeDados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C-Aula02 - TipoDeDados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
