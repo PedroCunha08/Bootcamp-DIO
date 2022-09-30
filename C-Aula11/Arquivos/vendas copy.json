@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Material Escritorio",
+    "Preco": 25.00,
+    "DataVenda": "0001-01-01T00:00:00"
+  },
+  {
+    "Id": 2,
+    "Produto": "Licença Software",
+    "Preco": 1200.00,
+    "DataVenda": "0001-01-01T00:00:00"
+  },
+  {
+    "Id": 3,
+    "Produto": "Material de Limpeza",
+    "Preco": 500.00,
+    "DataVenda": "0001-01-01T00:00:00"
+  },
+  {
+    "Id": 4,
+    "Produto": "Oficina Mecanica",
+    "Preco": 350.00,
+    "DataVenda": "0001-01-01T00:00:00"
+  },
+  {
+    "Id": 5,
+    "Produto": "Tinta Impressoras",
+    "Preco": 200.00,
+    "DataVenda": "0001-01-01T00:00:00"
+  }
+]
